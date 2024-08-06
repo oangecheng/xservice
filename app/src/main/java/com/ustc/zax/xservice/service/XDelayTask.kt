@@ -5,5 +5,6 @@ package com.ustc.zax.xservice.service
  * Author: chengzhi@kuaishou.com
  * Beautiful is better than ugly ~
  * Desc: the function which need call when real service is registered
+ * only support method which return type is void
  */
-annotation class ServiceTask
+annotation class XDelayTask

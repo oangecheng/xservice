@@ -6,7 +6,6 @@ import java.lang.reflect.Method
 
 /**
  * Time: 2024/8/6
- * Author: chengzhi@kuaishou.com
  * Simple is better than complex ~
  * Desc:
  */

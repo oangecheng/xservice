@@ -6,7 +6,6 @@ import com.ustc.zax.xservice.service.XOwner
 
 /**
  * Time: 2024/7/18
- * Author: chengzhi@kuaishou.com
  * Simple is better than complex ~
  * Desc: the module who provides the real [UserService]
  */

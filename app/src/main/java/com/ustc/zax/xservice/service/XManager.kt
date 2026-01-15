@@ -5,7 +5,6 @@ import java.lang.reflect.Proxy
 
 /**
  * Time: 2024/8/6
- * Author: chengzhi@kuaishou.com
  * Simple is better than complex ~
  * Desc:
  */

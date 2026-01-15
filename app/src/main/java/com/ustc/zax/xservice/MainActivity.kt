@@ -8,7 +8,6 @@ import com.ustc.zax.xservice.service.XManager
 
 /**
  * Time: 2024/7/18
- * Author: chengzhi@kuaishou.com
  * Beautiful is better than ugly ~
  * Desc:
  */

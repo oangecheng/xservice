@@ -6,7 +6,6 @@ import com.ustc.zax.xservice.service.XService
 
 /**
  * Time: 2024/8/6
- * Author: chengzhi@kuaishou.com
  * Simple is better than complex ~
  * Desc:
  */
